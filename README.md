@@ -52,7 +52,7 @@ pierde en algún nivel, el juego termina. ¡Descubre todos los finales!
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/BrawlTitan/nombre-repo.git
+   git clone https://github.com/BrawlTitan/Proyecto-Parcial-Ciclo2.git
    ```
 2. Abre la solución en Visual Studio.
 3. Compila y ejecuta `Ratatouille-Game.cpp`.
@@ -137,7 +137,7 @@ lose a level, the game ends. Discover every ending!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BrawlTitan/repo-name.git
+   git clone https://github.com/BrawlTitan/Proyecto-Parcial-Ciclo2.git
    ```
 2. Open the solution in Visual Studio.
 3. Build and run `Ratatouille-Game.cpp`.
