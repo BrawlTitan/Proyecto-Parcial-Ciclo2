@@ -1,0 +1,15 @@
+# Música (sin derechos de distribución)
+   musica/*
+   !musica/.gitkeep
+
+   # Visual Studio
+   .vs/
+   x64/
+   Debug/
+   Release/
+   *.user
+   *.exe
+   *.pdb
+   *.obj
+   *.ilk
+   *.log
