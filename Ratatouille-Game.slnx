@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ratatouille-Game/Ratatouille-Game.vcxproj" Id="739f2d17-2ec2-6344-bf3d-38c3598d1056" />
+</Solution>

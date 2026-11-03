@@ -1,15 +1,24 @@
 # Música (sin derechos de distribución)
-   musica/*
-   !musica/.gitkeep
+**/musica/*
+!**/musica/.gitkeep
 
-   # Visual Studio
-   .vs/
-   x64/
-   Debug/
-   Release/
-   *.user
-   *.exe
-   *.pdb
-   *.obj
-   *.ilk
-   *.log
+# Visual Studio
+.vs/
+x64/
+**/x64/
+Debug/
+Release/
+*.user
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.log
+*.suo
+*.ncb
+*.sdf
+*.pch
+*.ipch
+*.tlog
+*.idb
+*.res
