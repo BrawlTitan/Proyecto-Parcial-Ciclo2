@@ -67,11 +67,27 @@ pierde en algún nivel, el juego termina. ¡Descubre todos los finales!
 | Aaron Badajos | [@Bucheria](https://github.com/Bucheria) | Programación, música e ideas |
 | Jeremy Advincula | — | Programación |
 
-### Licencia
+### Música
 
-Proyecto académico con fines educativos. *Ratatouille* y sus personajes son
-propiedad de Disney/Pixar; este proyecto no tiene fines comerciales.
+Los archivos de audio **no se incluyen en este repositorio**. Para escuchar la
+música del juego, agrega tus propios archivos (propios o con licencia que
+permita su uso) en la carpeta `musica/`.
 
+
+### Licencia y aviso legal
+
+Este es un **proyecto académico sin fines de lucro**, desarrollado para el curso
+de Algoritmos de la Universidad Peruana de Ciencias Aplicadas (UPC).
+
+- Es un proyecto **no oficial** y no tiene ninguna afiliación, patrocinio ni
+  aprobación de Disney ni Pixar.
+- *Ratatouille*, sus personajes, nombres e historia son propiedad de
+  Disney/Pixar. Se usan únicamente con fines educativos.
+- El **código fuente** es obra de los autores listados arriba.
+- No se incluye música ni otros materiales de terceros con derechos de autor.
+  Los archivos de audio están excluidos del repositorio (ver `.gitignore`).
+- Si eres titular de derechos y deseas que se retire algún contenido, abre un
+  *issue* o contacta a [@BrawlTitan](https://github.com/BrawlTitan).
 ---
 
 ## 🇬🇧 English
@@ -136,7 +152,24 @@ lose a level, the game ends. Discover every ending!
 | Aaron Badajos | [@Bucheria](https://github.com/Bucheria) | Programming, music and ideas |
 | Jeremy Advincula | — | Programming |
 
-### License
+### Music
 
-Academic project for educational purposes. *Ratatouille* and its characters are
-property of Disney/Pixar; this project is non-commercial.
+Audio files are **not included in this repository**. To hear the game's music,
+add your own files (original or with a license that permits their use) to the
+`musica/` folder.
+
+
+### License and legal notice
+
+This is a **non-profit academic project** developed for the Algorithms course
+at the Universidad Peruana de Ciencias Aplicadas (UPC), Peru.
+
+- This is an **unofficial** project and is not affiliated with, sponsored by, or
+  endorsed by Disney or Pixar.
+- *Ratatouille*, its characters, names and story are property of Disney/Pixar.
+  They are used for educational purposes only.
+- The **source code** was written by the authors listed above.
+- No copyrighted music or other third-party material is included. Audio files
+  are excluded from the repository (see `.gitignore`).
+- If you are a rights holder and want any content removed, open an issue or
+  contact [@BrawlTitan](https://github.com/BrawlTitan).
